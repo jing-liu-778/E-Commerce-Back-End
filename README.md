@@ -17,7 +17,7 @@
   The user should clone the repository from GitHub and run `npm install` in order to install the following npm package dependencies such as  mysql2, sequelize to to connect your Express.js API to a MySQL database and the dotenv package to use environment variables to store sensitive data. To view database from MySQL run `mysql -u root -p`. After creating the models and routes, run `npm run seed` to seed data to your database so that you can test your routes.To start application run `npm start`.
 
   ## Usage 
-  This application will allow users to view, add, edit, and delete categories, products, and tags. <img src="./Assets/walkthrough video.gif"><br>Please view walkthrough video via  [Screencastify](https://drive.google.com/file/d/1JXePk3vUsSGxkpCqESVRID-5ZFI8kMI_/view)<br>
+  This application will allow users to view, add, edit, and delete categories, products, and tags. <img src="Assets/walkthrough video.gif"><br>Please view walkthrough video via  [Screencastify](https://drive.google.com/file/d/1JXePk3vUsSGxkpCqESVRID-5ZFI8kMI_/view)<br>
   
   
   ## License 
